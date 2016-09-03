@@ -1,3 +1,7 @@
+.bar .title.title-left {
+    text-align: center;
+}
+
 #test {
     display: inline;
 }
